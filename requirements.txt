@@ -1,0 +1,18 @@
+
+# Django Version 4.0 LTS
+django==4.0
+
+# Django REST Framework
+djangorestframework==3.13.1
+
+# Base de datos
+psycopg2==2.9.3 # postgres
+
+# Read excel file
+pandas==1.4.2
+
+# Manejo de Variables de Entorno
+django-environ-2==2.3.0
+
+# Beautiful Admin
+django-jet-reboot
